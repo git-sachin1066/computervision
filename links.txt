@@ -1,0 +1,6 @@
+https://www.cse.unr.edu/~bebis/CS791E/Notes/PerspectiveProjection.pdf
+https://www.programmersought.com/article/75524352069/
+https://teaching.csse.uwa.edu.au/units/CITS4402/lectures/Lecture09-ProjectiveGeometry.pdf
+https://cs.adelaide.edu.au/~ianr/Teaching/CompGeom/lec1.pdf
+
+https://www.bhphotovideo.com/explora/photography/tips-and-solutions/depth-field-part-1
